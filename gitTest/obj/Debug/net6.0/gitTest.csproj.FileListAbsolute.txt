@@ -1,0 +1,15 @@
+/Users/pavelinozemcev/Projects/gitTest/gitTest/bin/Debug/net6.0/gitTest
+/Users/pavelinozemcev/Projects/gitTest/gitTest/bin/Debug/net6.0/gitTest.deps.json
+/Users/pavelinozemcev/Projects/gitTest/gitTest/bin/Debug/net6.0/gitTest.runtimeconfig.json
+/Users/pavelinozemcev/Projects/gitTest/gitTest/bin/Debug/net6.0/gitTest.dll
+/Users/pavelinozemcev/Projects/gitTest/gitTest/bin/Debug/net6.0/gitTest.pdb
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.csproj.AssemblyReference.cache
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.AssemblyInfoInputs.cache
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.AssemblyInfo.cs
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.csproj.CoreCompileInputs.cache
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.dll
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/refint/gitTest.dll
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.pdb
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/gitTest.genruntimeconfig.cache
+/Users/pavelinozemcev/Projects/gitTest/gitTest/obj/Debug/net6.0/ref/gitTest.dll
